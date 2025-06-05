@@ -69,7 +69,7 @@ export default function Home() {
   return (
     <main>
       <Header />
-
+      //First Home page Header
       <section className="py-20 bg-gradient-to-b from-[#d7dedc] to-[#7263f3]/5 text-primary-foreground">
         <div className="container mx-auto px-4 text-center text-black">
           <h1 className="text-4xl text-[#7263f3] md:text-5xl font-bold mb-6">
