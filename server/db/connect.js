@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-//comments
+//connection
 const connect = async () => {
     try {
         console.log("Attenmpting to connect db...");
