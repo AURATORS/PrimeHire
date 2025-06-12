@@ -3,7 +3,7 @@ import {getUserProfile} from "../controllers/userController.js";
 
 const router = express.Router();
 
-
+//creating
 router.get("/check-auth", (req, res) => {
   if (req.oidc.isAuthenticated()) {
     // return auth status
