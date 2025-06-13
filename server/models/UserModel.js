@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+//data variables
 
 const userSchema = new mongoose.Schema(
   {
