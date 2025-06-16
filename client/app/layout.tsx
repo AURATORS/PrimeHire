@@ -1,6 +1,6 @@
 import "./globals.css";
 import ContextProvider from "@/providers/ContextProvider";
-import { Roboto } from "next/font/google";
+import { Roboto } from "next/font/google"; //Roboto
 import { Toaster } from "react-hot-toast";
 
 const roboto = Roboto({
